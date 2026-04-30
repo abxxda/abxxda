@@ -1,5 +1,5 @@
 ## About me :
-#### I'm currently learning web development, therefore all the projects listed here are done in my free time, as practice.
+#### I'm currently learning web development, therefore all the projects listed here are done in my free time, as practice. The actual project repositories are currently private until I'm more confident with my work.
 
 ## My current work :
 <div>
@@ -46,17 +46,6 @@
 </div>
 
 ##
-<p>thanks for checking this out, more coming up soon!</p>
+<p>thanks for checking this out 😊, more coming up soon!</p>
 
-<!--
-**abxxda/abxxda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
--->
+<!--**abxxda/abxxda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.--!>
