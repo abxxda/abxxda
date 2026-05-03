@@ -35,6 +35,8 @@
 		<li>Advanced HTML & CSS</li>
 		<li>Advanced JavaScript & Node.js</li>
 		<li>C, C# or C++ (for game dev)</li>
+		<li>motion control via webcam with Touchdesigner</li>
+		<li>building & deploying actual public apps</li>
 	</ul>
 	<h4>What I already know about :</h4>
 	<ul>
