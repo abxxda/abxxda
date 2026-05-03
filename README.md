@@ -9,9 +9,9 @@
   </ul>
   <h5>⚙️ Tools/Utility :</h5>
   <ul>
-    <li>Drawing App :<br>A browser canva, has the option to save your drawings.<br>Current status : 💚 working</li>
-		<li>Calculator :<br>A simple browser calculator made in JS as a learning exercise.<br>Current status : 💚 working</li>
-		<li>QR Code Generator :<br>A browser tool to generate QR codes from pasted links. The QR codes can be downloaded.<br>Current status : 💛 In improvement... (work on frontend design)</li>
+    <li>Drawing App :<br>A browser canva, has the option to save your drawings.<br>Current status : 💚 working (not deployed)</li>
+		<li>Calculator :<br>A simple browser calculator made in JS as a learning exercise.<br>Current status : 💚 working (not deployed)</li>
+		<li>QR Code Generator :<br>A browser tool to generate QR codes from pasted links. The QR codes can be downloaded.<br>Current status : 💛 In improvement... (work on frontend design/not deployed)</li>
   </ul>
 </div>
 
@@ -19,7 +19,7 @@
 <div>
 	<h5>💼 Work related :</h5>
 	<ul>
-		<li>Frontend for a showcase website :<br>Current status : ❤️ work in progress... (this is a group project for my preparatory class)</li>
+		<li>Frontend for a showcase website :<br>Current status : ❤️ work in progress... (this is a group project for my preparatory class, in collab with)</li>
 	</ul>
 	<h5>🎲 Personal projects :</h5>
 	<ul>
