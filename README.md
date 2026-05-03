@@ -5,7 +5,7 @@
 <div>
   <h5>🌐 Interactive projects :<h5>
   <ul>
-    <li>Mini Chat :<br>An online web based chat. Works by opening multiple windows/multiple users using simulataneously (don't forget to pick a username 😊). Available here 👉🏽 https://minichat-4da2.onrender.com/<br>Current status : 💛 Suspended for improvement... (work on mobile layout)</li>
+    <li>Mini Chat :<br>An online web based chat. Works by opening multiple windows/multiple users using simulataneously (don't forget to pick a username 😊).<br> Available here 👉🏽 https://minichat-4da2.onrender.com/<br>Current status : 💛 Suspended for improvement... (work on mobile layout)</li>
   </ul>
   <h5>⚙️ Tools/Utility :</h5>
   <ul>
