@@ -19,7 +19,7 @@
 <div>
 	<h5>💼 Work related :</h5>
 	<ul>
-		<li>Frontend for a showcase website :<br>Current status : ❤️ work in progress... (this is a group project for my preparatory class, in collab with)</li>
+		<li>Frontend for a showcase website :<br>Current status : ❤️ work in progress... (this is a group project for my preparatory class, in collab with a classmate)</li>
 	</ul>
 	<h5>🎲 Personal projects :</h5>
 	<ul>
