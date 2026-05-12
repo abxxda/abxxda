@@ -41,7 +41,7 @@
 	<h4>What I already know about :</h4>
 	<ul>
 		<li>HTML, CSS & JS basics for web development</li>
-		<li>some SQL and databases for backend</li>
+		<li>Wordpress basics</li>
 		<li>basics of Figma for design purpose</li>
 		<li>basics of making simple games in Godot 4</li>
 	</ul>
