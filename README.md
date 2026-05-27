@@ -15,7 +15,7 @@
   </ul>
 	<h5>🕹️ Games :</h5>
   <ul>
-    <li>BooGet Catcher :<br>A small catching game I made for the showcase website project, with Pico-8 Education.<br>Ressources : this tutorial helped 👉🏽 https://www.youtube.com/watch?v=Yu-FUnu0pXk <br>Current status : 💚 working (no music yet/not deployed)</li>
+    <li>BooGet Catcher :<br>A small bread catching game I made for my school showcase website project, with Pico-8 Education.<br>Ressources : this tutorial helped 👉🏽 https://www.youtube.com/watch?v=Yu-FUnu0pXk <br>Current status : 💚 working (no music yet/not deployed)</li>
   </ul>
 </div>
 
