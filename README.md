@@ -13,6 +13,10 @@
 		<li>Calculator :<br>A simple browser calculator made in JS as a learning exercise.<br>Current status : 💚 working (not deployed)</li>
 		<li>QR Code Generator :<br>A browser tool to generate QR codes from pasted links. The QR codes can be downloaded.<br>Current status : 💛 In improvement... (work on frontend design/not deployed)</li>
   </ul>
+	<h5>🕹️ Games :</h5>
+  <ul>
+    <li>BooGet Catcher :<br>A small catching game I made for the showcase website project, with Pico-8 Education.<br>Ressources : this tutorial helped 👉🏽 https://www.youtube.com/watch?v=Yu-FUnu0pXk <br>Current status : 💚 working (no music yet/not deployed)</li>
+  </ul>
 </div>
 
 ## Upcoming projects :
@@ -24,7 +28,7 @@
 	<h5>🎲 Personal projects :</h5>
 	<ul>
 		<li>Blender 3D models<br>Current status : 🤍 upcoming...</li>
-		<li>Dungeon Crawler game in Godot<br>Current status : 🤍 upcoming...</li>
+		<li>Games on Godot/Pico-8<br>Current status : 🤍 upcoming...</li>
 	</ul>
 </div>
 
@@ -34,8 +38,7 @@
 	<ul>
 		<li>Advanced HTML & CSS</li>
 		<li>Advanced JavaScript & Node.js</li>
-		<li>C, C# or C++ (for game dev)</li>
-		<li>Touchdesigner</li>
+		<li>C, C# or C++ and Lua for Pico-8 (for game dev)</li>
 		<li>building & deploying actual public apps</li>
 	</ul>
 	<h4>What I already know about :</h4>
