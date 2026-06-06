@@ -16,6 +16,7 @@
 	<h5>🕹️ Games :</h5>
   <ul>
     <li>BooGet Catcher :<br>A small bread catching game I made for my school showcase website project, with Pico-8 Education.<br>Ressources : this tutorial helped 👉🏽 https://www.youtube.com/watch?v=Yu-FUnu0pXk <br>Current status : 💛 In improvement... (no music/deployment to itch.io soon!)</li>
+	  <li>Aster'Op :<br>An arcade asteroid shooter, made with Pico-8.<br>Ressources : this tutorial playlist helped 👉🏽 [https://www.youtube.com/watch?v=Yu-FUnu0pXk](https://www.youtube.com/playlist?list=PLea8cjCua_P3Sfq4XJqNVbd1vsWnh7LZd) <br>Current status : ❤️ work in progress...</li>
   </ul>
 </div>
 
@@ -23,7 +24,7 @@
 <div>
 	<h5>💼 Work related :</h5>
 	<ul>
-		<li>Frontend for a showcase website :<br>Current status : ❤️ work in progress... (this is a group project for my preparatory class, in collab with a classmate)</li>
+		<li>Frontend for a showcase website :<br>Current status : 💚 working (not deployed)</li>
 	</ul>
 	<h5>🎲 Personal projects :</h5>
 	<ul>
@@ -45,8 +46,8 @@
 	<ul>
 		<li>HTML, CSS & JS basics for web development</li>
 		<li>Wordpress basics</li>
-		<li>basics of Figma for design purpose</li>
-		<li>basics of making simple games in Godot 4</li>
+		<li>basics of Figma and Breakdance visual builder for design purpose</li>
+		<li>basics of making simple games in Godot 4 and Pico-8</li>
 	</ul>
 </div>
 
