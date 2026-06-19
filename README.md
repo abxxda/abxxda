@@ -1,5 +1,5 @@
 ## About me :
-#### I'm currently learning web development, therefore all the projects listed here are done in my free time, as practice. The actual project repositories are currently private until I'm more confident with my work.
+#### I'm currently learning web development, therefore all the projects listed here are done in my free time, as practice. The actual project repositories are currently private until I'm more confident with my work but showcase screenshots and records will be added to show the working projects.
 
 ## My current work :
 <div>
@@ -10,13 +10,15 @@
   <h5>⚙️ Tools/Utility :</h5>
   <ul>
     <li>Drawing App :<br>A browser canva, has the option to save your drawings.<br>Current status : 💚 working (not deployed)</li>
-		<li>Calculator :<br>A simple browser calculator made in JS as a learning exercise.<br>Current status : 💚 working (not deployed)</li>
-		<li>QR Code Generator :<br>A browser tool to generate QR codes from pasted links. The QR codes can be downloaded.<br>Current status : 💛 In improvement... (work on frontend design/not deployed)</li>
+	<li>Calculator :<br>A simple browser calculator made in JS as a learning exercise.<br>Current status : 💚 working (not deployed)</li>
+	<li>QR Code Generator :<br>A browser tool to generate QR codes from pasted links. The QR codes can be downloaded.<br>Current status : 💛 In improvement... (work on frontend design/not deployed)</li>
+	  <li>Video Player :<br>A browser video player. For now the video must be added directly into the html code.<br>Current status : 💛 In improvement... (work on frontend design and try adding video selection from folder/databse)</li>
   </ul>
 	<h5>🕹️ Games :</h5>
   <ul>
+	  <li>Snake HTML :<br>Snake game but very basic.<br>Ressources : I don't remember which tutorials I mixed up to make it 😭 (sorry).<br>Current status : 💚 working (not deployed)</li>
     <li>BooGet Catcher :<br>A small bread catching game I made for my school showcase website project, with Pico-8 Education.<br>Ressources : this tutorial helped 👉🏽 https://www.youtube.com/watch?v=Yu-FUnu0pXk <br>Current status : 💛 In improvement... (no music/deployment to itch.io soon!)</li>
-	  <li>Aster'Op :<br>An arcade asteroid shooter, made with Pico-8.<br>Ressources : this tutorial playlist helped 👉🏽 [https://www.youtube.com/watch?v=Yu-FUnu0pXk](https://www.youtube.com/playlist?list=PLea8cjCua_P3Sfq4XJqNVbd1vsWnh7LZd) <br>Current status : ❤️ work in progress...</li>
+	  <li>Aster'Op :<br>An arcade asteroid shooter, made with Pico-8.<br>Ressources : SHMUP tutorial by LazyDevs helped a lot 👉🏽 https://www.youtube.com/watch?v=Yu-FUnu0pXk](https://www.youtube.com/playlist?list=PLea8cjCua_P3Sfq4XJqNVbd1vsWnh7LZd) <br>Current status : ❤️ work in progress...</li>
   </ul>
 </div>
 
