@@ -1,5 +1,5 @@
 ## About me :
-#### I'm currently learning web development, therefore all the projects listed here are done in my free time, as practice. The actual project repositories are currently private until I'm more confident with my work but showcase screenshots and records will be added to show the working projects.
+#### I'm currently learning web development, therefore all the projects listed here are done in my free time with tutorials, as practice. The actual project repositories are currently private.
 
 ## My current work :
 <div>
